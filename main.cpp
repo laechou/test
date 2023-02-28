@@ -102,7 +102,7 @@ int compareorb() {
 
 int main()
 {
-	//test 1
+	//test 2
 	compareorb();
 	return 0;
 }
